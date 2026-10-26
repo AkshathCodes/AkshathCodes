@@ -14,8 +14,6 @@ An allocation-free **C11** framing library with CRC-16 validation, bounded incre
 
 A **Python** cache simulator for exploring associativity, locality, and LRU/FIFO replacement. Includes hand-checkable traces, reproducible comparison results, and tests against an independent reference model. Results describe the model rather than real CPU performance.
 
-These two educational projects were created with substantial AI assistance using OpenAI Codex. Their repositories document verified behavior and limitations.
-
 ### [Global Flu Tracker](https://github.com/AkshathCodes/Bird-Flu-Tracker)
 
 A geospatial prototype with a **C++17 backend**, a local HTTP/JSON API, and an interactive Leaflet map. The backend calculates great-circle distances and applies distance-based scoring rules. The repository includes a CMake build and backend tests.
