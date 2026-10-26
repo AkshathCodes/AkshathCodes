@@ -4,7 +4,17 @@ I study **Electrical Engineering at the University of Wisconsin-Madison**. I am 
 
 I want to understand how software interacts with hardware, from C and microcontrollers to digital logic and processor design.
 
-## Featured project
+## Featured projects
+
+### [Embedded Telemetry C](https://github.com/AkshathCodes/embedded-telemetry-c)
+
+An allocation-free **C11** framing library with CRC-16 validation, bounded incremental parsing, and recovery from damaged byte streams. Includes a host demo, Debug/Release tests, and an independent Python CRC reference. This is application framing, not a hardware UART driver.
+
+### [Cache Trace Lab](https://github.com/AkshathCodes/cache-trace-lab)
+
+A **Python** cache simulator for exploring associativity, locality, and LRU/FIFO replacement. Includes hand-checkable traces, reproducible comparison results, and tests against an independent reference model. Results describe the model rather than real CPU performance.
+
+These two educational projects were created with substantial AI assistance using OpenAI Codex. Their repositories document verified behavior and limitations.
 
 ### [Global Flu Tracker](https://github.com/AkshathCodes/Bird-Flu-Tracker)
 
