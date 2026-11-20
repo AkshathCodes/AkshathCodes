@@ -6,6 +6,12 @@ I want to understand how software interacts with hardware, from C and microcontr
 
 ## Featured projects
 
+### [EchoSense](https://github.com/AkshathCodes/EchoSense)
+
+A team indoor-mapping prototype that connects iPhone LiDAR capture, a Python mapper, and a browser-based 3D viewer. My contribution focuses on the web viewer and LiDAR rendering, including the interface for exploring scans and reviewing saved maps.
+
+The demo mapper has run on a real phone. Full-darkness operation and the trained classifier's accuracy on real mapper data remain unverified. The project supports simulated search-and-rescue planning; it is not an operational rescue device.
+
 ### [Embedded Telemetry C](https://github.com/AkshathCodes/embedded-telemetry-c)
 
 An allocation-free **C11** framing library with CRC-16 validation, bounded incremental parsing, and recovery from damaged byte streams. Includes a host demo, Debug/Release tests, and an independent Python CRC reference. This is application framing, not a hardware UART driver.
